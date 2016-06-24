@@ -33,6 +33,12 @@ namespace COMP123_MidTermExam
 
         // CREATE the public GenerateLottoNumbers method here ----------------
 
+         /**
+     * <summary>
+     * This is supposed to execute and generate random numbers between 1-49 while the counter is greater than 0.
+     * </summary>
+     * 
+     */
         public class GenerateLottoNumbers();
            private int _setNum = 49;
            private int _counter1 = 6;
