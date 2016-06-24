@@ -35,8 +35,15 @@ namespace COMP123_MidTermExam
 
         public class GenerateLottoNumbers
         {
-            Random
-        }
+           int setNum = 49;
+           int counter1 = 6;
+            int number;
 
+           while (counter1 > 0)
+        {
+            counter1 - 1;
+            number = Random(1,49);
+
+        }
+        }
     }
-}

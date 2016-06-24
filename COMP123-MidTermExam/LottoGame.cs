@@ -56,9 +56,15 @@ namespace COMP123_MidTermExam
         // PRIVATE METHODS ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
         // CREATE the private _initialize method here -----------------------------
-
+        private _initialize;
+    {
+        this.get;
+    }
         // CREATE the private _build method here -----------------------------------
-
+        private _build;
+    {
+        this.get
+    }
         // OVERRIDEN METHODS ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
         /**
