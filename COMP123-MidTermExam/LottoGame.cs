@@ -90,4 +90,8 @@ namespace COMP123_MidTermExam
 
         // CREATE the public PickElements method here ----------------------------
     }
+    public class PickElements;
+    {
+
+    }
 }

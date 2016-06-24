@@ -33,9 +33,9 @@ namespace COMP123_MidTermExam
 
         // CREATE the public GenerateLottoNumbers method here ----------------
 
-        public class GenerateLottoNumbers;
+        public class GenerateLottoNumbers
         {
-
+            Random
         }
 
     }
