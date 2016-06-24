@@ -33,16 +33,17 @@ namespace COMP123_MidTermExam
 
         // CREATE the public GenerateLottoNumbers method here ----------------
 
-        public class GenerateLottoNumbers
+        public class GenerateLottoNumbers();
+           private int _setNum = 49;
+           private int _counter1 = 6;
+           private int _number;
         {
-           int setNum = 49;
-           int counter1 = 6;
-            int number;
+           
 
-           while (counter1 > 0)
+           while (_counter1 > 0)
         {
-            counter1 - 1;
-            number = Random(1,49);
+            _counter1 - 1;
+            _number = Random(1,49);
 
         }
         }
